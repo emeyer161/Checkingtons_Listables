@@ -31,7 +31,7 @@ body {
 	margin:auto;
 	border:20px black;
 	border-radius: 20px;
-	border:1px solid #663300;
+	/*border:1px solid #663300;*/
 	background-color: #663300;
 	box-shadow: 3px 3px 5px;
 }
@@ -44,7 +44,7 @@ body {
 		border-top-left-radius: 20px;
 		border-top-right-radius: 20px;
 		vertical-align: middle;
-		border:2px solid #663300;
+		border:3px solid #663300;
 	}
 		h1 {
 			font-size: 50px;
@@ -55,7 +55,7 @@ body {
 	.infoBox {
 		background-color: #FFFFDA;
 		padding:15px;
-		border:2px solid #663300;
+		border:3px solid #663300;
 	}
 		h3 {
 			font-size: 18px;
@@ -68,7 +68,7 @@ body {
 		font-size: 0px;
 		border-bottom-right-radius: 20px;
 		border-bottom-left-radius: 20px;
-		border:2px outset #663300;
+		border:3px outset #663300;
 	}
 		.botton, #newList, #addQty, #addItem, #submit {
 			display: ;
@@ -90,7 +90,7 @@ body {
 		#addQty {
 			background-color:#CCFF66;
 			width:100px;
-			margin-right:-8px;
+			margin-right:-9px;
 			border-left:3px solid #663300;
 		}
 		#addItem {
@@ -114,7 +114,6 @@ body {
 	width:610px;
 	margin:auto;
 	margin-top:20px;
-	/*display:block;*/
 }
 	#list {
 		position:relative;
